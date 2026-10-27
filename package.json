@@ -1,0 +1,13 @@
+{
+  "name": "falcon-time-tracker",
+  "version": "1.0.0",
+  "description": "Веб-приложение для учёта рабочего времени сотрудников (Тестовое задание Falcon AI)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/time-tracker.test.js"
+  },
+  "keywords": ["time-tracker", "falcon-ai", "nodejs", "ai-assisted-development"],
+  "author": "Taleh Gasanov <taleh.gasanov.az@gmail.com>",
+  "license": "MIT"
+}
